@@ -1,6 +1,8 @@
-5+ years of product development and leadership experience.<br>
-5+ years of SaaS project management experience.<br>
-Background in digital marketing.
+<b>James E Councill Jr.</b> - <a href="https://www.linkedin.com/in/jcouncill/" target="_blank" rel="noopener noreferrer">linkedin.com/in/jcouncill/</a>
+
+🌟 5+ years of product development and leadership experience.<br>
+🌟 5+ years of SaaS project management experience.<br>
+🌟 Background in digital marketing.
 
 Technical Skills and Proficiencies: Microsoft Project, Trello/Jira/Agile, WordPress, HTML/CSS, GitHub, Photoshop, Dreamweaver, Indesign, Google Analytics, AdWords, Webmaster Tools, MemoQ, Woo Commerce, Moodle, Magento
 
