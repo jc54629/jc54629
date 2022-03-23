@@ -1,4 +1,4 @@
-<b>James E Councill Jr.</b><br> <a href="https://www.linkedin.com/in/jcouncill/" target="_blank">linkedin.com/in/jcouncill/</a><br>
+<b>James E Councill Jr.</b> - <a href="https://www.linkedin.com/in/jcouncill/" target="_blank">linkedin.com/in/jcouncill/</a><br>
 Director of Product &amp; Web Development - <a href="https://tdisdi.com/" target="_blank">International Training</a><br>
 Owner - <a href="https://councillmedia.com/" target="_blank">Councill Media</a>
 
