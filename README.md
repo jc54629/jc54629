@@ -1,5 +1,5 @@
-5+ years of product development and leadership experience.
-5+ years of SaaS project management experience.
+5+ years of product development and leadership experience.<br>
+5+ years of SaaS project management experience.<br>
 Background in digital marketing.
 
 Technical Skills and Proficiencies: Microsoft Project, Trello/Jira/Agile, WordPress, HTML/CSS, GitHub, Photoshop, Dreamweaver, Indesign, Google Analytics, AdWords, Webmaster Tools, MemoQ, Woo Commerce, Moodle, Magento
